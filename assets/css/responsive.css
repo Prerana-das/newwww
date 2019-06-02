@@ -1,0 +1,1503 @@
+/*mobile*/
+@media only screen and (max-width: 767px) { 
+
+body{
+	background-color: #fff;
+}
+p{
+	font-size: 15px;
+}
+.ptb_15 {
+    padding: 10px 0px;
+}
+
+
+/* ========================Community Page===================== */
+.logo {
+    text-align: center;
+    padding: 6px 0px;
+}
+.logo h5 {
+    font-size: 16px;
+}
+.community_topbar_area .community_topmenu {
+    float: none;
+}
+.community_topmenu li a, .community_right_menu li a {
+    padding: 6px 5px;
+    font-size: 12px;
+}
+.sign_up {
+    text-align: center;
+    padding: 6px 0px;
+}
+ul.sign_up i, ul.sign_up a {
+    font-size: 12px;
+}
+ 
+
+
+
+.midbar_left {
+    text-align: center;
+}
+
+a.midbar_title {
+    font-size: 24px;
+}
+.midbar_left a {
+    margin: 15px 0px;
+}
+
+
+.community_mainmenu_list {
+    text-align: center;
+}
+.community_mainmenu {
+    margin-bottom: 10px;
+}
+ul.community_mainmenu li a {
+    font-size: 13px;
+    line-height: 30px;
+  }
+
+
+
+.community_search {
+    text-align: center;
+}
+.community_search input {
+    padding: 7px 10px;
+    width: 200px;
+}
+.community_search i {
+    height: 42px;
+    line-height: 42px;
+    width: 42px;
+    right: 50%;
+    margin-right: -100px;
+    font-size: 13px;
+}
+
+
+/* Community sidebar nav */
+.welcome {
+	padding: 10px 15px;
+}
+.sidebar_nav li a {
+	padding: 8px 15px;
+	font-size: 13px;
+}
+
+
+.category_title a, .category_title {
+    font-size: 16px;
+ }
+ .filter_bar {
+    padding: 10px 0px;
+}
+a.border_btn {
+    padding: 4px 15px;
+ }
+
+ /* community right content */
+.community_post_list tbody {
+    width: 345px;
+    height: 490px;
+    overflow: auto;
+    display: block;
+}
+.community_post_list tr {
+    padding: 10px 0px;
+}
+.community_post_list td {
+   padding: 8px;
+ }
+.community_post_list tr td:nth-child(2) a {
+    width: 7em;
+ }
+ .community_post_list tr td:nth-child(3) a {
+  	 width: 11em;
+}
+.pagination_area {
+    margin-top: 15px;
+    padding: 13px;
+}
+ul.pagination_list._border_color {
+    padding-bottom: 10px;
+}
+.pagination_search {
+    padding: 15px 0px 0px 0px;
+  }
+
+
+  h3.footer_h3 {
+    font-size: 14px;
+}
+
+.footer_right {
+    margin-top: 20px;
+}
+p.copyright {
+    font-size: 12px;
+}
+
+
+/* ========================Discussion Page===================== */
+.comment_text textarea{
+	width:100%;
+
+	}
+.comment_text input[type="submit"] {
+    position: static;
+    margin-top: 15px;
+    font-size: 14px;
+}
+.single_discussion_area {
+    padding: 20px 0px;
+}
+
+ h2.discussion_heading_h2 {
+    font-size: 21px;
+}
+
+.discussion_heading {
+    margin-top: 12px;
+}
+.disccussion_menu_area {
+    text-align: center;
+}
+.disscusion_social_area {
+    text-align: center;
+    padding: 12px 0px;
+}
+
+.single_discussion img {
+    margin-top: 18px;
+}
+.single_discussion {
+    margin-bottom: 10px;
+    padding: 18px 0px;
+}
+.map_area {
+    padding: 26px 0px;
+}
+.dis_post_list a.border_btn {
+    float: left;
+    margin-top: 15px;
+}
+
+
+
+
+/* ======================== Default Discussion Page===================== */
+.download_img img {
+    margin-bottom: 15px;
+}
+
+
+/* ======================== Community search Page===================== */
+.category_title_area {
+    margin: 14px 0px;
+}
+
+
+/* ======================== Community Post Page===================== */
+.post_category_text {
+    padding: 10px 0px 20px 0px;
+    border-bottom: 1px solid #e7e7e7;
+}
+.post_category_list p {
+    display: block;
+    padding: 10px 0px;
+ }
+ .full-mailbox .submit-content {
+    margin-top: 57px;
+}
+
+/* ======================== Buy and sell Page===================== */
+.header_logo a {
+    font-size: 33px;
+}
+.top_news_area span i.fas.fa-chevron-left {
+    top: 17%;
+    left: 26px;
+    z-index:1
+}
+.top_news_area span i.fas.fa-chevron-right {
+    top: 17%;
+    right: 26px;
+    z-index: 1;
+}
+.border_bottom.main {
+    margin: 0px 39px;
+} 
+.top_news_area {
+    width: 100%;
+}
+.menu_area ul {
+    padding: 5px 8px;
+}
+.header_area {
+    padding-top: 6px;
+}
+.header_logo {
+    width: 68%;
+}
+.news_real_times {
+    padding-bottom: 76px;
+}
+.category_area {
+ margin-bottom: 0px;
+}
+.search_pera {
+    width: 100%;
+}
+.category_area {
+    padding-bottom: 38px;
+}
+.news_body_area {
+    padding-bottom: 41px;
+}
+
+/* Real State */
+.listings {
+    margin-bottom: 43px;
+}
+.banner_nav {
+    margin-top: 21px;
+}
+.banner_nav {
+    width: 95%;
+}
+.banner_nav ul li {
+    display: inline-block;
+    width: 100%;
+}
+.banner_nav ul {
+    text-align: left;
+}
+.banner_nav ul li a {
+    padding: 7px 18px;
+    margin: 0px;
+}
+.banner_sale_cont p input {
+    width: 100%;
+    margin-top: 17px;
+    box-shadow: 6px 1px 5px #ddd;
+}
+.banner_sale_cont p i.fas {
+    right: 12px;
+    top: 11px;
+    font-size: 21px;
+}
+.sale_logo {
+    text-align: center;
+}
+.sale_menu ul {
+    text-align: left;
+}
+.single_real_blog img {
+    width: 100%;
+}
+.blog_title {
+     float: none;
+}
+.blog_social {
+     float: none;
+    display: block;
+    margin-top: 10px;
+}
+.real_table tbody {
+    width: 64%;
+    overflow-x: auto;
+    height: 388px;
+    display: block;
+    border-top: 1px solid #ddd;
+}
+.search_word {
+    margin-bottom: 11px;
+}
+.filter_btn ul {
+    text-align: left;
+}
+.filter_btn ul li {
+    margin-right: 2px;
+    margin-bottom: 11px;
+}
+.real_right table {
+    margin-top: 15px;
+}
+.premium_table tbody {
+    width: 86%;
+    overflow-x: auto;
+    height: 388px;
+    display: block;
+}
+.check_box span {
+    font-size: 9px;
+}
+.real_right td p i.fas {
+    top: 297px;
+    left: 195px;
+    display: none;
+}
+.pagination_area {
+    padding: 13px;
+}
+.single_real_sidebar a {
+    text-align: left;
+    margin-bottom: 15px;
+    padding: 15px 20px;
+    border: 1px solid #ddd;
+    padding: 10px 9px;
+}
+.single_real_sidebar a img {
+    width: 40px;
+    float: none;
+    margin-right: 11px;
+    height: 16p;
+}
+.advance {
+    position: inherit;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.advance_search {
+    padding: 0px 20px;
+}
+.single_drop_adcate select {
+    margin-bottom: 12px;
+}
+.single_news_body_area_right_featured img {
+    height: auto;
+}
+.single_news_real_times_top img{
+    height: 36px;
+}
+.community_sidenav {
+    margin-bottom: 15px;
+}
+.buy_sell_search {
+    margin-bottom: 15px;
+}
+span.title_btn {
+    width: 100%;
+}
+.search_category ul li {
+    display: block;
+    margin: 0 0 13px;
+}
+.location_search ul li {
+    display: block;
+}
+.search_category input[type="text"] {
+    width: 100%;
+}
+button.submit, button.cancel, .search_category input[type="submit"] {
+    margin-top: 10px;
+    width: 100%;
+}
+.buy_details_title {
+    width: 100%;
+}
+.buy_sell_pagination {
+    margin: 15px 0 20px;
+}
+.product_info {
+    padding: 0px 0px;
+    margin: 18px 0 18px;
+}
+.p_decription_area {
+    height: auto;
+    margin-bottom: 10px;
+}
+.p_decription_area input[type="submit"] {
+    padding: 5px 0 7px;
+}
+.button{
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.store_left {
+    margin: 0 0 19px;
+}
+.search_item{
+    width: 100%;
+}
+/* Real State */
+.listings {
+    margin-bottom: 43px;
+}
+.banner_nav {
+    margin-top: 21px;
+}
+.banner_nav {
+    width: 95%;
+}
+.banner_nav ul li {
+    display: inline-block;
+    width: 100%;
+}
+.banner_nav ul {
+    text-align: left;
+}
+.banner_nav ul li a {
+    padding: 7px 18px;
+    margin: 0px;
+}
+.banner_sale_cont p input {
+    width: 100%;
+    margin-top: 17px;
+    box-shadow: 6px 1px 5px #ddd;
+}
+.banner_sale_cont p i.fas {
+    right: 12px;
+    top: 11px;
+    font-size: 21px;
+}
+.sale_logo {
+    text-align: center;
+}
+.sale_menu ul {
+    text-align: left;
+}
+.single_real_blog img {
+    width: 100%;
+}
+.blog_title {
+     float: none;
+}
+.blog_social {
+     float: none;
+    display: block;
+    margin-top: 10px;
+}
+.real_table tbody {
+    width: 64%;
+    overflow-x: auto;
+    height: 388px;
+    display: block;
+    border-top: 1px solid #ddd;
+}
+.search_word {
+    margin-bottom: 11px;
+}
+.filter_btn ul {
+    text-align: left;
+}
+.filter_btn ul li {
+    margin-right: 2px;
+    margin-bottom: 11px;
+}
+.real_right table {
+    margin-top: 15px;
+}
+.premium_table tbody {
+    width: 86%;
+    overflow-x: auto;
+    height: 388px;
+    display: block;
+}
+.check_box span {
+    font-size: 9px;
+}
+.real_right td p i.fas {
+    top: 297px;
+    left: 195px;
+    display: none;
+}
+.pagination_area {
+    padding: 13px;
+}
+.single_real_sidebar a {
+    text-align: left;
+    margin-bottom: 15px;
+    padding: 15px 20px;
+    border: 1px solid #ddd;
+    padding: 10px 9px;
+}
+.single_real_sidebar a img {
+    width: 40px;
+    float: none;
+    margin-right: 11px;
+    height: 16p;
+}
+.advance {
+    position: inherit;
+    left: 0;
+    top: 0;
+    width: 100%;
+}
+.advance_search {
+    padding: 0px 20px;
+}
+.single_drop_adcate select {
+    margin-bottom: 12px;
+}
+.c_banner_cont h1 {
+    font-size: 19px;
+    padding: 19px 7px;
+    line-height: 29px;
+}
+.check_banner_area {
+    height: 165px;
+
+}
+.check_banner_area {
+    margin-bottom: 111px;
+}
+/* .c_banner_bottom {
+    top: 349px;
+} */
+.slider_area h1 {
+    font-size: 18px;
+    line-height: 39px;
+}
+.slide {
+    padding: 0px;
+    margin-top: 35px;
+}
+.slide_img {
+    padding: 0px 13px;
+}
+.slide_pera h3 {
+    font-size: 38px;
+    color: #ddd;
+}
+.slide_pera strong {
+    font-size: 21px;
+}
+.slide_pera h5 {
+    font-size: 16px;
+    line-height: 25px;
+}
+.slide_pera p {
+    font-size: 13px;
+}
+.slide_dots {
+    left: 42%;
+}
+.check_banner2_area {
+    margin-top: 56px;
+}
+.check_banner2_area {
+    height: 148px;
+}
+.check_banner2_area h1 {
+    padding: 10px 0px;
+    line-height: 37px;
+    font-size: 24px;
+}
+.unlimited_area {
+     margin-top: 44px; 
+}
+.unlimited_right {
+    padding: 8px;
+}
+h2.u_section_title {
+    font-size: 25px;
+    line-height: 31px;
+}
+p.u_section_pera {
+    font-size: 18px;
+    line-height: 31px;
+    margin-top: 7px;
+}
+.communicate_area {
+    margin-top: 0px;
+}
+.communicate_left h1 {
+    margin-bottom: 19px;
+    font-size: 22px;
+}
+a.blk_btn.general {
+    margin-bottom: 14px;
+}
+.discount_area {
+    margin-top: 25px;
+}
+.p_free_pass.fix {
+    padding: 53px 50px;
+}
+.p_general_agent {
+    margin-bottom: 0px;
+}
+.free_right a.blk_btn {
+    margin-top: 7px;
+    display: block;
+}
+.p_benefit ul li {
+    margin-bottom: 10px;
+}
+.c_banner_bottom {
+    top: 290px;
+}
+.sale_realty2_area {
+    padding: 0px 17px;
+}
+/* .sale_realty_banner_right img {
+    display: inline-block;
+    width: 95px;
+    cursor: pointer;
+} */
+.footer_bottom_area.login_footer._border_color {
+    margin-top: 71px;
+}
+.sale_realty_banner_right img {
+    height: auto;
+    margin-top: 8px;
+    width: 55px;
+    display: inline-block;
+}
+.sale_realty_banner_left {
+    height: auto;
+}
+.sale_realty_banner_right {
+    height: 100%;
+    margin-top: 8px;
+}
+.listings {
+    margin-bottom: 44px;
+}
+/* ==============================Job Search Page=================== */
+.job_banner_top ul li {
+    display: inline-block;
+    padding: 7px 1px;
+}
+.job_banner_top ul {
+    padding:0px
+}
+.job_search_cont {
+    width: 370px;
+    margin: 17px auto;
+     padding: 0px
+}
+.job_search_cont h2 {
+    font-size: 24px;;
+}
+.job_search_cont p {
+    font-size: 13px;
+}
+.job_sub_menu {
+    margin-top: 16px;
+}
+
+.job_sub_menu ul li a {
+    font-size: 10px;
+}
+.c_banner_content {
+    width: auto;
+}
+.c_banner_left {
+    width:auto;
+    float: none; 
+}
+.c_banner_right {
+    float: none;
+}
+.single_c tbody {
+    width: 308px;
+    height: 300px;
+    overflow: ;
+    overflow-x: auto;
+    display: block;
+    margin-top: 22px;
+}
+
+/* ============================News Post Page===================== */
+.n_post_title {
+    margin-bottom: 7px;
+}
+.n_post_input input {
+    width: 100%;
+}
+.n_post_tag p {
+    display: inline-block;
+    padding: 3px 12px;
+    margin-bottom: 7px;
+}
+.n_post_input textarea {
+    min-width: 100%;
+}
+.n_post_submit.submit-content {
+    margin-top: 51px;
+    display: block;
+}
+/* =========================================home==============================*/
+.community_mainmenu_list {
+    text-align: center;
+}
+
+.home_news_haeding .community_mainmenu li a , .home_community .community_mainmenu li a{
+    font-size: 11px;
+    padding: 0 2px;
+}
+.home_news_haeding .community_mainmenu, .home_community .community_mainmenu {
+    margin: 0px;
+}
+.home_news_menu_arrow li a {
+    width: 12px;
+    height: 45px;
+    font-size: 10px;
+}
+.home_news_cont_right p {
+    font-size: 12px;
+}
+.home_community .home_news_menu_arrow li{
+    display: none;
+}
+.home_community_top a {
+    font-size: 12px !important;
+}
+.home_job_box_right a {
+    font-size: 13px;
+}
+.home_job_box_right span {
+    font-size: 11px;
+}
+a.title {
+    font-size: 13px;
+}
+
+.home_community_cont_right li span ,.home_community_cont_right li a{
+    width: 146px;
+    display: inline-block;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.home_job_box {
+    margin-bottom: 15px;
+}
+.home_job_box_left img {
+    margin-bottom: 10px;
+}
+
+.home_real_box a.home_link {
+    width: 80px;
+    font-size: 11px;
+}
+.list_view li {
+    font-size: 11px;
+}
+
+a.home_login_btn {
+    font-size: 15px;
+}
+a.left_link {
+    width: 100px;
+}
+a.right_link {
+    width: 140px;
+}
+
+.shopping_bottom_link li a {
+    font-size: 12px;
+}
+
+.list_view_buy li a {
+    width: 14em;
+}
+.shopping_single_box a.home_link {
+    width: 310px;
+}
+.home_real_box a.home_link {
+    width: 310px;
+}
+
+/*===================Post Details======================*/
+.post_details_area p {
+    min-height: 288px;
+}
+.recent_post_list tbody {
+    width: 343px;
+    height: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+/* ipad Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+.logo h5 {
+    font-size: 18px;
+}
+ul.sign_up i {
+    font-size: 11px;
+    padding-right: 3px;
+}
+ul.sign_up a {
+    font-size: 11px;
+    padding: 6px 1px;
+}
+
+.midbar_left {
+    text-align: center;
+}
+a.midbar_title {
+    font-size: 27px;
+ }
+
+.community_mainmenu {
+    margin: 0px 0px 8px 0px;
+}
+ul.community_mainmenu li a {
+    font-size: 14px;
+}
+
+
+.community_search{
+	text-align: center;
+}
+.community_search input {
+    padding: 7px 51px 8px 10px;
+    width: 100%;
+    font-size: 15px;
+}
+.community_search i {
+    height: 40px;
+    line-height: 40px;
+    width: 40px;
+    font-size: 13px;
+    top: 0;
+    right: 0;
+}
+
+
+/* community sidebar nav */
+.sidebar_nav li a {
+    padding: 8px 15px;
+    font-size: 13px;
+}
+
+/* community right menu */
+.community_right_menu li a {
+    font-size: 12px;
+}
+
+/* community right content */
+.community_post_list tbody {
+    width: 500px;
+    height: auto;
+    overflow: auto;
+    display: block;
+}
+.community_post_list tr td:nth-child(3) a {
+    width: 18em;
+ }
+ .pagination_area {
+    padding: 17px;
+}
+ul.pagination_list {
+    padding-bottom: 18px;
+}
+.pagination_search {
+    padding: 20px 0px 0px 0px;
+}
+
+.footer_right span {
+    width: 148px!important;
+}
+.footer_right ul li {
+    font-size: 13px;
+}
+h3.footer_h3 {
+    font-size: 14px;
+ }
+p.copyright {
+    font-size: 12px;
+}
+
+
+/* ========================Discussion Page===================== */
+.comment_text textarea {
+    width: 66%;
+ }
+ .single_discussion img {
+    margin-top: 22px;
+}
+.single_discussion {
+    margin-bottom: 10px;
+    padding: 26px 0px;
+}
+.map_area {
+    padding: 26px 0px;
+}
+
+
+/* ======================== Default Discussion Page===================== */
+.download_img {
+    display: flex;
+}
+.download_img img {
+    margin-right: 14px;
+}
+/* ======================== Buy and sell Page===================== */
+/* News */
+.header_logo a {
+    font-size: 38px;
+}
+.header_logo {
+    width: 67%;
+}
+.news_real_times {
+/*  height: 100vh; */
+}
+.top_news_area span i.fas.fa-chevron-right {
+    right: 24px;
+}
+.top_news_area span i.fas.fa-chevron-left {
+    left: 24px;
+    z-index:1
+}
+.des_details {
+    width: 100%;
+}
+.search_pera {
+    width: 100%;
+}
+.align-items-center {
+    margin-bottom: 28px;
+}
+
+/* Real Estate */
+.listings {
+    margin-bottom: 43px;
+}
+.single_real_blog img {
+    width: 100%;
+}
+.single_real_blog h2 {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.real_table tbody {
+    width: 84%;
+    overflow-x: auto;
+    height: 388px;
+    display: block;
+    border-top: 1px solid #ddd;
+}
+.search_word {
+    margin-bottom: 12px;
+}
+span.title_btn {
+    width: 100%;
+}
+.search_category ul li {
+    display: block;
+    margin: 0 0 13px;
+}
+.location_search ul li {
+    display: block;
+}
+.search_category input[type="text"] {
+    width: 100%;
+}
+button.submit, button.cancel, .search_category input[type="submit"] {
+    margin-top: 10px;
+    width: 100%;
+}
+.buy_details_title {
+    width: 100%;
+}
+.buy_sell_pagination {
+    margin: 15px 0 20px;
+}
+.product_seller {
+    display: inherit;
+}
+a.red_btn {
+    padding: 8px 11px;
+}
+.product_msg a.red_btn {
+    width: 100%;
+}
+.product_info {
+    padding: 0px 0px;
+    margin: 18px 0 18px;
+}
+.p_decription_area {
+    height: auto;
+    margin-bottom: 10px;
+}
+.p_decription_area input[type="submit"] {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    background-color: #0099ff;
+    color: #fff;
+    border: none;
+    padding: 5px 0 7px;
+    display: block;
+    margin: 0;
+}
+/* Real Estate */
+.listings {
+    margin-bottom: 0px;
+}
+.single_real_blog img {
+    width: 100%;
+}
+.single_real_blog h2 {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.real_table tbody {
+    width: 84%;
+    overflow-x: auto;
+    height: 388px;
+    display: block;
+    border-top: 1px solid #ddd;
+}
+.search_word {
+    margin-bottom: 12px;
+}
+.p_benefit ul li {
+    margin-bottom: 10px;
+}
+.check_banner_area {
+    height: 537px;
+}
+.c_banner_bottom {
+    bottom: 266px;
+}
+.rating {
+    padding: 0px 10px;
+    display: block;
+}
+.recommended .single_agent i.fas.fa-chevron-right {
+    top: 17%;
+}
+.recommended .single_agent i.fas.fa-chevron-left {
+    top: 17%;
+}
+/* =================================Real Estate Page======================== */
+/* .listings {
+    margin-bottom: 43px;
+} */
+.single_real_blog img {
+    width: 100%;
+}
+.single_real_blog h2 {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.real_table tbody {
+    width: 100%;
+    overflow-x: auto;
+    height: 388px;
+    display: block;
+    border-top: 1px solid #ddd;
+}
+.search_word {
+    margin-bottom: 12px;
+}
+span.title_btn {
+    width: 100%;
+    margin-bottom: 10px;
+}
+.search_category ul li {
+    display: block;
+    margin: 0 0 13px;
+}
+.location_search ul li {
+    display: block;
+}
+.search_category input[type="text"] {
+    width: 100%;
+}
+button.submit, button.cancel, .search_category input[type="submit"] {
+    margin-top: 10px;
+    width: 100%;
+}
+.buy_details_title {
+    width: 100%;
+}
+.buy_sell_pagination {
+    margin: 15px 0 20px;
+}
+.product_seller {
+    display: inherit;
+}
+a.red_btn {
+    padding: 8px 11px;
+}
+.product_msg a.red_btn {
+    width: 100%;
+}
+.product_info {
+    padding: 0px 0px;
+    margin: 18px 0 18px;
+}
+.p_decription_area {
+    height: auto;
+    margin-bottom: 10px;
+}
+.p_decription_area input[type="submit"] {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+    background-color: #0099ff;
+    color: #fff;
+    border: none;
+    padding: 5px 0 7px;
+    display: block;
+    margin: 0;
+}
+.sale_realty3_sidebar_form textarea {
+    padding: 0px;
+}
+.s_realt3_agent_details .rating {
+    right: -21px;
+}
+.listings {
+    margin-bottom: 174px;
+}
+.single_realty2_sidebar_list ul {
+    padding: 49px 14px;
+}
+.recommended .single_agent i.fas.fa-chevron-right {
+    top: 50%;
+}
+.recommended .single_agent i.fas.fa-chevron-left {
+    top: 50%;
+}
+/* Real Estate */
+.listings {
+    margin-bottom: 42px;
+}
+.single_real_blog img {
+    width: 100%;
+}
+.single_real_blog h2 {
+    font-size: 20px;
+    line-height: 32px;
+}
+
+.real_table tbody {
+    width: 100%;
+    overflow-x: auto;
+    height: 388px;
+    display: block;
+    border-top: 1px solid #ddd;
+}
+.search_word {
+    margin-bottom: 12px;
+}
+.p_benefit ul li {
+    margin-bottom: 10px;
+}
+.check_banner_area {
+    height: 537px;
+}
+/* .c_banner_bottom {
+    bottom: 266px;
+} */
+.rating {
+    padding: 0px 10px;
+    display: block;
+}
+.recommended .single_agent i.fas.fa-chevron-right {
+    top: 17%;
+}
+.recommended .single_agent i.fas.fa-chevron-left {
+    top: 17%;
+}
+.c_banner_bottom {
+    bottom: 132px;
+}
+.single_real_sidebar a {
+    padding: 10px 19px;
+}
+.single_real_sidebar a img {
+    float:none;
+}
+.recommended .single_agent i.fas.fa-chevron-right {
+    top: 39%;
+}
+.recommended .single_agent i.fas.fa-chevron-left {
+    top: 39%;
+}
+
+/* ===================================Job Search Page============================== */
+.job_banner_top ul li {
+    display: inline-block;
+    padding: 7px 1px;
+}
+.job_banner_top ul {
+    padding:0px
+}
+.job_search_cont {
+    width: 659px;
+    margin: 17px auto;
+    padding: 0px;
+}
+.job_search_cont h2 {
+    font-size: 24px;;
+}
+.job_search_cont p {
+    font-size: 13px;
+}
+.job_banner_area .job_banner_top {
+    padding: 4px 0 0;
+}
+.single_drop_job_search {
+    margin-bottom: 12px;
+}
+.job_sub_menu {
+    margin-top: 22px;
+}
+.community_search i {
+    top: 17px;
+    right: 17px;
+}
+
+/* ========================Discussion Page===================== */
+.comment_text textarea {
+    width: 66%;
+ }
+ .single_discussion img {
+    margin-top: 22px;
+}
+.single_discussion {
+    margin-bottom: 10px;
+    padding: 26px 0px;
+}
+.map_area {
+    padding: 26px 0px;
+}
+
+
+/* ======================== Default Discussion Page===================== */
+.download_img {
+    display: flex;
+}
+.download_img img {
+    margin-right: 14px;
+}
+/* ======================== Buy and sell Page===================== */
+
+/* =========================News============================= */
+.header_logo a {
+    font-size: 38px;
+}
+.header_logo {
+    width: 67%;
+}
+.news_real_times {
+/*  height: 100vh; */
+}
+.top_news_area span i.fas.fa-chevron-right {
+    right: 24px;
+}
+.top_news_area span i.fas.fa-chevron-left {
+    left: 24px;
+    z-index:1
+}
+.des_details {
+    width: 100%;
+}
+.search_pera {
+    width: 100%;
+}
+.align-items-center {
+    margin-bottom: 28px;
+}
+/* =========================================Home================================*/
+.community_mainmenu_list {
+    text-align: center;
+}
+
+.home_news_haeding .community_mainmenu li a ,.home_community .community_mainmenu li a{
+    font-size: 13px;
+     padding: 0 5px;
+}
+.home_news_haeding .community_mainmenu, .home_community .community_mainmenu {
+    margin: 0px;
+}
+.home_news_menu_arrow li a {
+    width: 22px;
+    height: 45px;
+    font-size: 11px;
+}
+
+.home_news_cont_right p {
+    font-size: 12px;
+}
+.home_community_cont_left a.home_link {
+    width: 81px;
+    font-size:11px;
+}
+.home_community_cont_right li {
+    font-size: 12px;
+    margin-bottom: 4px;
+}
+.home_community_cont_right li span ,.home_community_cont_right li a{
+    width: 146px;
+    display: inline-block;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+
+
+.home_job_box_right a {
+    font-size: 12px;
+}
+.home_job_box_left img {
+    min-height: 46px;
+}
+.home_job_box_right span {
+    font-size: 11px;
+}
+.home_job_box {
+    margin-bottom: 14px;
+}
+.home_community_top a {
+    font-size: 12px !important;
+}
+a.title{
+     font-size: 13px;
+}
+.home_real_box a.home_link {
+    width: 80px;
+    font-size: 11px;
+}
+.list_view li {
+    font-size: 11px;
+}
+a.home_login_btn {
+    font-size: 15px;
+}
+.shopping_bottom_link li a {
+    font-size: 12px;
+}
+a.left_link {
+    width: 43px;
+}
+a.right_link {
+    width: 104px;
+}
+.list_view_buy li a {
+    width: 14em;
+}
+
+
+
+
+
+
+}
+
+
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+
+
+
+
+
+
+
+
+}
+
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+/* =========================Real Blog Page=========================== */
+.sale_logo p {
+    padding: 12px 0px;
+}
+.listings {
+    margin-bottom: 64px;
+}
+.check_banner2_area h1 {
+    padding: 64px 0px;
+    line-height: 58px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.c_banner_cont h1 {
+    padding: 188px 29px;
+}
+.p_benefit ul li {
+    margin-bottom: 10px;
+}
+.slide_dots {
+    left: 45%;
+    bottom: -14px;
+}
+.c_banner_cont h1 {
+    font-size: 29px;
+}
+.c_banner_bottom {
+    bottom: -43px;
+}
+.slider_area {
+    margin-top: -108px;
+}
+.slider_area h1 {
+    font-size: 32px;
+    line-height: 56px;
+}
+.slide {
+    padding: 0px 76px;
+}
+.slide_pera {
+    padding: 20px 38px;
+}
+.slide_pera strong {
+    font-size: 29px;
+}
+.slide_pera h5 {
+    font-size: 18px;
+    color: #5c5b5b;
+    line-height: 37px;
+}
+.check_banner_area {
+    height: 537px;
+}
+.unlimited_right {
+    padding: 26px 0px;
+}
+h2.u_section_title {
+    font-size: 36px;
+    margin-top: 25px;
+}
+.communicate_left h1 {
+    font-size: 36px;
+}
+.communicate_area.margin-top-100.padding-bottom-100 {
+    padding: 0px;
+    margin: 15px;
+}
+.sale_realty_banner_right {
+    height: 100%;
+    margin-top: 8px;
+}
+
+
+
+
+
+
+}
